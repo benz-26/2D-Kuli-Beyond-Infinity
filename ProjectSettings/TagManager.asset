@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - SuperPlatform
+  - TrapPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Background
+  - Paddle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1866332775
+    locked: 0
+  - name: Paddle
+    uniqueID: 2083836543
+    locked: 0
+  - name: Player
+    uniqueID: 1145458297
+    locked: 0
